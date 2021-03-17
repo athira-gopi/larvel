@@ -27,30 +27,30 @@
 </nav>
 <div class="container">
 <div class="row">
-<div class="col col-12 col-sm-3 col-lg-3 col-xl-3"></div>
-<div class="col col-12 col-sm-6 col-lg-6 col-xl-6">
-
-<h1><center>Registration</center></h1><br><br>
+<div class="col col-12 col-sm-3 col-lg-3 col-xxl-3"></div>
+<div class="col col-12 col-sm-6 col-lg-6 col-xxl-6">
+<h1><center>Contact<center></h1>
+<br><br>
     <table class="table">
     <tr>
         <td>Name</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>RollNo</td>
+        <td>Message</td>
+        <td><textarea name="" id="" cols="30" rows="10" class="form-control"></textarea></td>
+    </tr>
+    <tr>
+        <td>Phone No</td>
         <td><input type="text" class="form-control"></td>
     </tr>
     <tr>
-        <td>Regno</td>
-        <td><input type="text" class="form-control"></td>
-    </tr>
-    <tr>
-        <td>College</td>
-        <td><input type="text" class="form-control"></td>
+        <td></td>
+        <td><button class="btn btn-primary">Submit</button></td>
     </tr>
     </table>
     </div>
-    <div class="col col-12 col-sm-3 col-lg-3 col-xl-3"></div>
+    <div class="col col-12 col-sm-3 col-lg-3 col-xxl-3"></div>
 </div>
 </div>
 </body>
